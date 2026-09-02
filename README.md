@@ -19,7 +19,7 @@ Repositório dedicado ao armazenamento e organização de exercícios, listas de
 ### 🌐 Web (HTML / CSS / JS)
 | Atividade / Assunto | Descrição | Status |
 | :--- | :--- | :---: |
-| *Ex: Formulário de Cadastro* | *Estrutura em HTML5 e estilização com CSS3* | Concluído |
+| [Aula HTML - Regiões do Brasil](./AULAHTML1) | Atividade com páginas regionais, mapas e imagens dos estados | Concluído |
 
 ---
 
