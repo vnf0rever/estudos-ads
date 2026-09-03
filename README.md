@@ -20,8 +20,7 @@ Repositório dedicado ao armazenamento e organização de exercícios, listas de
 | Atividade / Assunto | Descrição | Status |
 | :--- | :--- | :---: |
 | [Aula HTML - Regiões do Brasil](./AULAHTML1) | Atividade com páginas regionais, mapas e imagens dos estados | Concluído |
-| [Aula HTML - Indicações XBOX] (./AULAHTML2) | Atividade com recomendações de jogos do ecossistema Xbox | Concluído |
----
+| [Aula HTML - Indicações Xbox](./AULAHTML2) | Atividade com recomendações de jogos do ecossistema Xbox | Concluído |---
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Java, SQL, HTML, CSS
