@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1, h2, h3 {
+    color: #107C10;
+}
+
+a {
+    color: #107C10;
+}
+
+button {
+    background-color: #107C10;
+    color: white;
+}
+
+
